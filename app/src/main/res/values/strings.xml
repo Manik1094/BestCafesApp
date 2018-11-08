@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Best Cafes</string>
+    <string name="intro">intro</string>
+
+    <string name="rec_view_list_text">manik</string>
+
+    <string name="rec_view_list_desc">Desc</string>
+
+    <string name="rec_view_list_loc">Loc</string>
+
+    <string name="rec_view_list_cost">Cost</string>
+
+    <string name="recycler_view_list_text">Delhi</string>
+</resources>

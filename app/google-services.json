@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "44907826223",
+    "firebase_url": "https://best-cafes.firebaseio.com",
+    "project_id": "best-cafes",
+    "storage_bucket": "best-cafes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44907826223:android:d8c1898d8e558bd5",
+        "android_client_info": {
+          "package_name": "com.example.manikgupta.bestcafes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44907826223-qsnh1kdkgjm8b5bk3e09a81cvpgjeoih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manikgupta.bestcafes",
+            "certificate_hash": "7b3ab472b64b3123c2ef17f5527b2cb3d18fe6fc"
+          }
+        },
+        {
+          "client_id": "44907826223-7mc5e9f0ro5h2nc7jr989rc8nld1p1hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiU-32KoqNTDGvXmAqayKvjMZoHNT_6eQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44907826223-7mc5e9f0ro5h2nc7jr989rc8nld1p1hn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
